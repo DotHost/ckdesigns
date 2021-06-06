@@ -11467,6 +11467,7 @@ h5,
 }
 .services-1:hover {
   background: #3e64ff;
+  color: #fff;
 }
 .services-1:hover .icon i {
   color: #fff;
@@ -11680,6 +11681,7 @@ h5,
   opacity: 0;
   background: rgb(1, 27, 88);
   color: #fff;
+  cursor: pointer;
   z-index: -1;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -11717,7 +11719,7 @@ h5,
 }
 @media (max-width: 767.98px) {
   .project .text {
-    opacity: 1;
+    opacity: 0;
   }
   .project .text span {
     color: rgba(255, 255, 255, 0.8);

@@ -10979,6 +10979,13 @@ h5,
   letter-spacing: 4px;
 }
 
+@media (max-width: 767.98px) {
+  .slider-text .subheading {
+    font-size: 1.5em;
+    font-weight: 100;
+  }
+}
+
 .slider-text h1 {
   font-size: 60px;
   font-weight: 800;
@@ -10991,6 +10998,13 @@ h5,
 
 .slider-text h2 {
   font-weight: 800;
+}
+
+@media (max-width: 767.98px) {
+  .slider-text h2 {
+    font-weight: 600;
+    font-size: 1.5em;
+  }
 }
 .slider-text h2 span {
   color: #fff;
@@ -11608,8 +11622,7 @@ h5,
 }
 .ftco-hireme h2 {
   color: #fff;
-  font-size: 40px;
-  font-weight: 900;
+  font-weight: 400;
 }
 .ftco-hireme h2 span {
   color: #a0f669;

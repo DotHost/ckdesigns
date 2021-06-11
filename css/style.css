@@ -10982,7 +10982,7 @@ h5,
 @media (max-width: 767.98px) {
   .slider-text .subheading {
     font-size: 1.5em;
-    font-weight: 100;
+    font-weight: 800;
   }
 }
 
@@ -11993,6 +11993,7 @@ textarea.form-control {
 @media (max-width: 767.98px) {
   .heading-section h2 {
     font-size: 38px;
+    margin-top: 30%;
   }
 }
 .heading-section.heading-section-white .subheading {
